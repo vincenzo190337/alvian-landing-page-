@@ -25,7 +25,7 @@ const CONFIG = {
   phone: "01956591199",             // ফুটারে দেখানোর যোগাযোগ নাম্বার
 
   /* ---------- ভিডিও (ফাঁকা রাখলে ভিডিও সেকশন লুকানো থাকবে) ---------- */
-  youtubeId: "",                    // YouTube লিংকের watch?v= এর পরের অংশ
+  youtubeId: "7qcGHqxehjE&t=9s",                    // YouTube লিংকের watch?v= এর পরের অংশ
   localVideo: "",                   // অথবা নিজের ভিডিও: "images/video.mp4"
 
   /* ---------- পেমেন্ট: এখন শুধু ক্যাশ অন ডেলিভারি ----------
@@ -49,10 +49,10 @@ const CONFIG = {
 
   /* ---------- কুর্তির ডিজাইন (একটা লাইন যোগ করলেই নতুন কার্ড আসবে) ---------- */
   products: [
-    { id: "k1", name: "কুর্তি ডিজাইন ১", image: "kurti-1.jpg" },
-    { id: "k2", name: "কুর্তি ডিজাইন ২", image: "kurti-2.jpg" },
-    { id: "k3", name: "কুর্তি ডিজাইন ৩", image: "kurti-3.jpg" },
-    { id: "k4", name: "কুর্তি ডিজাইন ৪", image: "kurti-4.jpg" }
+    { id: "k1", name: "Azure Vine", image: "Azure Vine.jpg" },
+    { id: "k2", name: "Mauve Blossom", image: "Mauve Blossom.jpg" },
+    { id: "k3", name: "Sage Serenity", image: "Sage Serenity.jpg" },
+
   ],
 
   /* ---------- (ঐচ্ছিক) অর্ডার Google Sheet-এ জমা: Apps Script Web App URL ---------- */
